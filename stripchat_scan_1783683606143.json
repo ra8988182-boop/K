@@ -1,0 +1,2948 @@
+{
+  "url": "https://es.stripchat.com/MiaSkylar/videos",
+  "timestamp": 1783683567152,
+  "apiCalls": [],
+  "fetchRequests": [],
+  "xhrRequests": [],
+  "websocketMessages": [],
+  "websocketURLs": [],
+  "domStructure": {
+    "totalElements": 1913,
+    "scripts": 67,
+    "styles": 19,
+    "forms": 1,
+    "inputs": 4,
+    "buttons": 40,
+    "videos": 14,
+    "images": 32,
+    "iframes": 0,
+    "canvases": 0
+  },
+  "scripts": [
+    {
+      "src": "https://assets.chapturist.com/assets/translations_es.1f0c68b4d8d6cf.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/canvas-performance-test.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/corejs-75349.9e240b24a5ffbb27.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/redux-48526.e096bd9b05468601.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/vendors-92272.aa5a2c50b4abb800.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/main.2677016ebd33f26b.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/react-74932.f5d5772e792e122a.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/redux-342.c31b3e7947c289b9.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/vendors-5572.433c9c63ec3bd5b1.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/bootstrap.ce5a471c64147be6.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/85246.4df21f979f1455a7.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/22365.3cf54759e7f7c3a9.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/13157.afd43e790fc0cdc6.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/22738.7b860fc9fd79edd4.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/65231.62ac68a9e7539f5c.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/69207.3b0e0145976f7c80.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/69136.375e22dcd6d8aff9.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/ModelChat.415491d2829bee4c.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/OpenTipMenuButton.c822b547e48a9e89.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/63893.e42cf7e85dd28c61.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/PluginSystem.883b3cb5873ae78e.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/29504.94645e8be2019ced.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/42015.2f840002354a9942.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/7089.5aad0cd771f5a9c0.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/34302.2c3d5ce6c8fc1909.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/48016.cc2fe222c82df444.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/45020.67886e69b655084e.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/videos.ba43d7a91d6e0ea2.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/videos-store.7b83e0fdc295c045.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/vendors-66108.607e6a3c16f48ce7.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/69274.c641d28d1c84d386.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/77070.aeed6f0f654a3e93.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/3194.c56047dc94de88ea.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/63937.b7edffd51aade6d7.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/81519.8925c86099a77d08.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/23583.9fa049ea998927aa.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/viewcam.ab3f0afaf85de43f.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://mmp.doppiocdn.com/player/mmp/v2.10.0/chunk-6c6baacd42c9270cf392.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://assets.chapturist.com/assets/vendors-26909.631dd0978c340d65.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://www.googletagmanager.com/gtag/js?id=G-Q87RE2YE8G",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://creative.eizzih.com/initindex.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "src": "https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.2/fingerprint2.min.js",
+      "type": "text/javascript",
+      "async": true,
+      "defer": false
+    },
+    {
+      "inline": true,
+      "preview": "window.SPLIT_STYLE_CHUNKS={\"tokens-landing_theme.23f16b7ee82ac9d6.css\":true,\"settings_theme.56b69f90b513d361.css\":true,\"model-about_theme.6c395b77950e1e80.css\":true,\"70591_theme.656e853ee0333ca9.css\":true,\"models_theme.6129ddcd65927366.css\":true,\"studios_theme.3a5ba6ab742137c6.css\":true,\"bootstrap_theme.086fe9757f08d4a4.css\":true,\"about_theme.653f648f4520bf04.css\":true,\"viewcam_theme.6fc88a967510b57e.css\":true,\"69136_theme.5e3ba13e66b30cf9.css\":true,\"77070_theme.05360a05394c8198.css\":true}"
+    },
+    {
+      "inline": true,
+      "preview": " var PWA_API_DISCOVER_HOST=\"https://stripchat.app\",AMPLITUDE_ALTERNATIVE_URL=\"loo3laej.com\",AMPLITUDE_SR_CONFIG_ALTERNATIVE_URL=\"https://sr-client-cfg.amplitude.com/config\",AMPLITUDE_SR_TRACK_ALTERNATIVE_URL=\"https://api-sr.amplitude.com/sessions/v2/track\",GOOGLE_CLIENT_ID=\"67819290237-pean7okuo1c6a4bf5g19d9anjj15uvp6.apps.googleusercontent.com\",HAS_TWITTER_AUTH=true,GTAG_TRACK_ID=\"G-Q87RE2YE8G\",GTAG_TRACK_TYPE=\"\",SITE_NAME=\"Stripchat\",DEPLOY_CONFIG={\"amplitudeKey\":\"19a23394adaadec51c3aeee366220"
+    },
+    {
+      "inline": true,
+      "preview": "window.SSR_ICONS = [\"menu\",\"dot\",\"best-models\",\"search-ds\",\"filter-slider-ds\",\"sparks-ds\",\"menu-mobile\",\"diamond\",\"instagram-original\",\"sort\",\"next-small\",\"categories-2\",\"close-2\",\"close-3\",\"heart-2\",\"chevron-down-ds\",\"chat-actions\",\"goal\",\"stripchat-logo\",\"locked\",\"user-tab\",\"emoji-ds\",\"send-ds\",\"fullscreen-on\",\"maleFemale\",\"heart-fill\",\"notifications\",\"user-plus\",\"envelope-bubble\",\"camera-4\",\"diamond-soldier\",\"diamond-lord\",\"diamond-prince\",\"tokens-3\",\"heart\",\"mobile\",\"i18n\",\"about\",\"x-logo-ds"
+    },
+    {
+      "inline": true,
+      "preview": "!function(){\"use strict\";var n,t=new RegExp(\"(?:^|;\\\\s*)\".concat(\"avStartedAt\",\"=([^;]*)\")),e=function(){try{var n=function(n){var e=n.match(t);return(null==e?void 0:e[1])?decodeURIComponent(e[1]):null}(document.cookie);return null!=n&&!Number.isNaN(n)&&new Date(n).getTime()>0?n:null}catch(n){return null}},i=function(n,t){var e=t.requestPath;return n.get(\"/v3/config/initial-dynamic\",{requestPath:e},{withResponseHeaders:!0})},r={5:\"ServerError\",4:\"ClientError\"},a=\"NetworkError\",o=function(n){var "
+    },
+    {
+      "inline": true,
+      "preview": "!function(){\"use strict\";for(var e={SIGNUP:\"signup\",LOGIN:\"login\",FAN_CLUB_SUBSCRIPTION:\"fanClubSubscription\"},t=/^(http|https):\\/\\/([^/]*)(xhamster(live)?|strip(dev|chat))\\.(com|local|dev)\\/?/,o={AUTO_SPY:\"autoSpy\",COPY_GIFT_LINK:\"copyGiftLink\",SHOW_INSTALL_PWA_MODAL:\"showInstallPwaModal\",TWO_FACTOR_AUTHORIZATION:\"2fa\",GOLD_MEMBERSHIP_SUBSCRIBE_DIRECT_LINK:\"goldMembershipSubscribeDirectLink\",SIGN_UP_MODAL_DIRECT_LINK:\"signUpModalDirectLink\",SIGN_UP_PREFILLED:\"signUpPrefilled\",SIGN_UP_MODAL_DIRE"
+    },
+    {
+      "inline": true,
+      "preview": "!function(){var n,e,t=\"legacy-browser-notification\",o=\"legacy-browser-notification-text\",i=\"legacy-browser-notification-close\",r=\"notifications.recommendationBrowserForPlaying\",a=\"notifications.recommendationBrowserForSamsungPlaying\",c={chrome:{href:\"https://www.google.com/chrome/\",title:\"Google Chrome\"},firefox:{href:\"https://www.mozilla.org/firefox/new/\",title:\"Firefox\"},safari:{href:\"https://www.apple.com/safari/\",title:\"Safari\"}},l=\"legacyBrowserRecommendationDismissed\",s=function(){try{wind"
+    },
+    {
+      "inline": true,
+      "preview": "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"VideoObject\",\"name\":\"LET'S HAVE A LITTLE FUN!!\",\"description\":\"\",\"thumbnailUrl\":[\"https://videos.strpst.com/212985113/09614188056e1a1d46f8615077dcc66e/thumb/720p/thumb-0004.jpg\",\"https://videos.strpst.com/212985113/09614188056e1a1d46f8615077dcc66e/thumb/720p/thumb-0008.jpg\",\"https://videos.strpst.com/212985113/09614188056e1a1d46f8615077dcc66e/thumb/720p/thumb-0012.jpg\"],\"durat"
+    },
+    {
+      "inline": true,
+      "preview": "window.LOADABLE_RENDERED_CHUNKS = [\"viewcam\",\"OpenTipMenuButton\",\"ModelChat\",\"videos\",\"videos-store\",\"PluginSystem\"]"
+    },
+    {
+      "inline": true,
+      "preview": "window.__PRELOADED_STATE__ = {\"abTesting\":{\"hasServerError\":false,\"abTestingData\":{\"ab_50tk_giveaway_new_text\":{\"group\":\"B\",\"forced\":false},\"ab_a_109853\":{\"group\":\"A\",\"forced\":false},\"ab_a_112720_v3\":{\"group\":\"C\",\"forced\":false},\"ab_a_113150\":{\"group\":\"X\",\"forced\":false},\"ab_a_114159_v1\":{\"group\":\"B\",\"forced\":false},\"ab_a_114161\":{\"group\":\"B\",\"forced\":false},\"ab_a_114205\":{\"group\":\"C\",\"forced\":false},\"ab_a_114207_v2\":{\"group\":\"B\",\"forced\":false},\"ab_a_115485\":{\"group\":\"B\",\"forced\":false},\"ab_a_1"
+    }
+  ],
+  "iframes": [],
+  "metaTags": [
+    {
+      "name": "og:url",
+      "content": "https://es.stripchat.com/MiaSkylar/videos"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "og:site_name",
+      "content": "Stripchat – Free Live Cams Community"
+    },
+    {
+      "name": "twitter:creator",
+      "content": "@stripchat"
+    },
+    {
+      "name": "twitter:site",
+      "content": "@stripchat"
+    },
+    {
+      "name": "robots",
+      "content": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "name": "theme-color",
+      "content": "#303133"
+    },
+    {
+      "name": "apple-mobile-web-app-capable",
+      "content": "yes"
+    },
+    {
+      "name": "viewport",
+      "content": "width=device-width,initial-scale=1"
+    },
+    {
+      "name": "RATING",
+      "content": "RTA-5042-1996-1400-1577-RTA"
+    },
+    {
+      "name": "RATING",
+      "content": "mature"
+    },
+    {
+      "name": "google",
+      "content": "notranslate"
+    },
+    {
+      "name": "msapplication-square70x70logo",
+      "content": "https://assets.chapturist.com/assets/icons/mstile-70x70.png?v=9670c787"
+    },
+    {
+      "name": "msapplication-square150x150logo",
+      "content": "https://assets.chapturist.com/assets/icons/mstile-150x150.png?v=9670c787"
+    },
+    {
+      "name": "msapplication-square270x270logo",
+      "content": "https://assets.chapturist.com/assets/icons/mstile-270x270.png?v=9670c787"
+    },
+    {
+      "name": "msapplication-wide310x150logo",
+      "content": "https://assets.chapturist.com/assets/icons/mstile-310x150.png?v=9670c787"
+    },
+    {
+      "name": "msapplication-square310x310logo",
+      "content": "https://assets.chapturist.com/assets/icons/mstile-310x310.png?v=9670c787"
+    },
+    {
+      "name": "application-name",
+      "content": "Stripchat"
+    },
+    {
+      "name": "msapplication-TileColor",
+      "content": "#000000"
+    }
+  ],
+  "videoElements": [
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "ViewCamWrapper__videoLayout#D_ video",
+      "id": "",
+      "poster": null,
+      "width": 407,
+      "height": 603
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "ViewCamWrapper__video#hm",
+      "id": "",
+      "poster": null,
+      "width": 407,
+      "height": 543
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "user-videos-page",
+      "id": "",
+      "poster": null,
+      "width": 383,
+      "height": 1297
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-v2",
+      "id": "",
+      "poster": null,
+      "width": 383,
+      "height": 1198
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "user-videos-page__video-list videos-list-v2__content",
+      "id": "",
+      "poster": null,
+      "width": 383,
+      "height": 1198
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-v2",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 171
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-expander",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-inner",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "class": "trailer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "fanClub media-access-overlay media-access-overlay--cover media-access-overlay--video paidOrFanClub v",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-duration",
+      "id": "",
+      "poster": null,
+      "width": 41,
+      "height": 16
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-under-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 40
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-title",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-title-text",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-controls",
+      "id": "",
+      "poster": null,
+      "width": 6,
+      "height": 32
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-v2",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 171
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-expander",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-inner",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "class": "trailer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-duration",
+      "id": "",
+      "poster": null,
+      "width": 38,
+      "height": 16
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-under-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 40
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-title",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-title-text",
+      "id": "",
+      "poster": null,
+      "width": 182,
+      "height": 17
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-controls",
+      "id": "",
+      "poster": null,
+      "width": 6,
+      "height": 32
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-v2",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 171
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-expander",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-inner",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "class": "trailer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-duration",
+      "id": "",
+      "poster": null,
+      "width": 38,
+      "height": 16
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-under-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 40
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-title",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-title-text",
+      "id": "",
+      "poster": null,
+      "width": 96,
+      "height": 17
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-controls",
+      "id": "",
+      "poster": null,
+      "width": 6,
+      "height": 32
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-v2",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 171
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-expander",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-inner",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "class": "trailer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "fanClub media-access-overlay media-access-overlay--cover media-access-overlay--video paidOrFanClub v",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-duration",
+      "id": "",
+      "poster": null,
+      "width": 39,
+      "height": 16
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-under-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 40
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-title",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-title-text",
+      "id": "",
+      "poster": null,
+      "width": 126,
+      "height": 17
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-controls",
+      "id": "",
+      "poster": null,
+      "width": 6,
+      "height": 32
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-v2",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 171
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-expander",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-inner",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "class": "trailer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-duration",
+      "id": "",
+      "poster": null,
+      "width": 41,
+      "height": 16
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-under-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 40
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-title",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-title-text",
+      "id": "",
+      "poster": null,
+      "width": 14,
+      "height": 17
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-controls",
+      "id": "",
+      "poster": null,
+      "width": 6,
+      "height": 32
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-v2",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 171
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-expander",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-inner",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "class": "trailer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-duration",
+      "id": "",
+      "poster": null,
+      "width": 42,
+      "height": 16
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-under-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 40
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-title",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-title-text",
+      "id": "",
+      "poster": null,
+      "width": 17,
+      "height": 17
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-controls",
+      "id": "",
+      "poster": null,
+      "width": 6,
+      "height": 32
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-v2",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 171
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-expander",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-inner",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "class": "blured trailer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "media-access-overlay media-access-overlay--cover media-access-overlay--video paid viewer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-duration",
+      "id": "",
+      "poster": null,
+      "width": 38,
+      "height": 16
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-under-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 40
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-title",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-title-text",
+      "id": "",
+      "poster": null,
+      "width": 17,
+      "height": 17
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-controls",
+      "id": "",
+      "poster": null,
+      "width": 6,
+      "height": 32
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-v2",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 171
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-expander",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-inner",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "class": "trailer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-duration",
+      "id": "",
+      "poster": null,
+      "width": 39,
+      "height": 16
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-under-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 40
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-title",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-title-text",
+      "id": "",
+      "poster": null,
+      "width": 17,
+      "height": 17
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-controls",
+      "id": "",
+      "poster": null,
+      "width": 6,
+      "height": 32
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-v2",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 171
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-expander",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-inner",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "class": "trailer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-duration",
+      "id": "",
+      "poster": null,
+      "width": 41,
+      "height": 16
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-under-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 40
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-title",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-title-text",
+      "id": "",
+      "poster": null,
+      "width": 17,
+      "height": 17
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-controls",
+      "id": "",
+      "poster": null,
+      "width": 6,
+      "height": 32
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-v2",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 171
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-expander",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-inner",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "class": "blured trailer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "media-access-overlay media-access-overlay--cover media-access-overlay--video paid viewer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-duration",
+      "id": "",
+      "poster": null,
+      "width": 36,
+      "height": 16
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-under-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 40
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-title",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-title-text",
+      "id": "",
+      "poster": null,
+      "width": 39,
+      "height": 17
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-controls",
+      "id": "",
+      "poster": null,
+      "width": 6,
+      "height": 32
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-v2",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 171
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-expander",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-inner",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "class": "trailer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-duration",
+      "id": "",
+      "poster": null,
+      "width": 41,
+      "height": 16
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-under-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 40
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-title",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-title-text",
+      "id": "",
+      "poster": null,
+      "width": 17,
+      "height": 17
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-controls",
+      "id": "",
+      "poster": null,
+      "width": 6,
+      "height": 32
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-v2",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 171
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-expander",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-inner",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "class": "blured trailer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "media-access-overlay media-access-overlay--cover media-access-overlay--video paid viewer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-duration",
+      "id": "",
+      "poster": null,
+      "width": 38,
+      "height": 16
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-under-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 40
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-title",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-title-text",
+      "id": "",
+      "poster": null,
+      "width": 17,
+      "height": 17
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-controls",
+      "id": "",
+      "poster": null,
+      "width": 6,
+      "height": 32
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-v2",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 171
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-expander",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-inner",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "class": "trailer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "fanClub media-access-overlay media-access-overlay--cover media-access-overlay--video paidOrFanClub v",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-duration",
+      "id": "",
+      "poster": null,
+      "width": 41,
+      "height": 16
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-under-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 40
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-title",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-title-text",
+      "id": "",
+      "poster": null,
+      "width": 52,
+      "height": 17
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-controls",
+      "id": "",
+      "poster": null,
+      "width": 6,
+      "height": 32
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-v2",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 171
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-expander",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "videos-list-item-inner",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 154
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "class": "blured trailer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "media-access-overlay media-access-overlay--cover media-access-overlay--video paid viewer",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 106
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-duration",
+      "id": "",
+      "poster": null,
+      "width": 33,
+      "height": 16
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-under-thumb",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 40
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-title",
+      "id": "",
+      "poster": null,
+      "width": 190,
+      "height": 17
+    },
+    {
+      "tag": "SPAN",
+      "src": null,
+      "class": "video-title-text",
+      "id": "",
+      "poster": null,
+      "width": 171,
+      "height": 17
+    },
+    {
+      "tag": "DIV",
+      "src": null,
+      "class": "video-controls",
+      "id": "",
+      "poster": null,
+      "width": 6,
+      "height": 32
+    }
+  ],
+  "localStorage": {
+    "watchingLimits": "{\"212985113\":{\"timeStart\":1783682659995,\"minutes\":[444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459]}}",
+    "amplitudeLastUtmSessionId": "1783682705904",
+    "centrifugo_worker_0": "false",
+    "pwaWatchTimeAccumulatedMs": "90878",
+    "guestsStage": "{\"startAt\":\"2026-07-10T11:23:20.446Z\",\"stage\":1}",
+    "stripchatActivityTimestamp": "1783683563568",
+    "uid": "\"7J6WSd6RLEwq0p2tZAwB6\"",
+    "ActiveTabId": "\"31d0a27529c01677eb1907bd6899f1b0ef31ff0b7f289618b6f7e01fb073\"",
+    "isThrottled": "true",
+    "AB_TESTING_GUEST_SEEN_AB_TESTS_LS_KEY": "[{\"experimentName\":\"ab_a_114207_v2\",\"timestamp\":1783682601}]",
+    "AB_TEST_ASSIGNMENT_GROUP_MAP_LS_KEY": "{\"ab_a_109853\":{\"assignmentTimestamp\":1783682600,\"group\":\"A\",\"userPart\":276},\"ab_a_113150\":{\"assignmentTimestamp\":1783682600,\"group\":\"X\",\"userPart\":276},\"ab_a_114161\":{\"assignmentTimestamp\":1783682600,\"group\":\"B\",\"userPart\":276},\"ab_a_114207_v2\":{\"assignmentTimestamp\":1783682600,\"group\":\"B\",\"userPart\":276},\"ab_a_117358\":{\"assignmentTimestamp\":1783682600,\"group\":\"B\",\"userPart\":276},\"ab_openapi_contract_validation_v2\":{\"assignmentTimestamp\":1783682600,\"group\":\"N\",\"userPart\":276},\"ab_s_d_recommended_v40_tech_v10\":{\"assignmentTimestamp\":1783682600,\"group\":\"N\",\"userPart\":276},\"ab_streaming_116767_v2\":{\"assignmentTimestamp\":1783682600,\"group\":\"B\",\"userPart\":276},\"ab_swap_rec_match\":{\"assignmentTimestamp\":1783682600,\"group\":\"B\",\"userPart\":276},\"ab_test_parallel_testing_1_v8\":{\"assignmentTimestamp\":1783682600,\"group\":\"B\",\"userPart\":276},\"ab_streaming_webrtc_resolution_limit_v3\":{\"assignmentTimestamp\":1783682600,\"group\":\"B\",\"userPart\":276},\"ab_websocket_contract_validation\":{\"assignmentTimestamp\":1783682600,\"group\":\"A\",\"userPart\":276}}",
+    "AB_TEST_ASSIGNMENT_TIMESTAMP_MAP_LS_KEY": "{}",
+    "guestsStageShort": "{\"startAt\":\"2026-07-10T11:23:20.444Z\",\"stage\":1}",
+    "isOnboardingKybModalHidden_undefined": "false",
+    "guestWatchHistoryIds": "[{\"modelId\":212985113,\"added\":\"2026-07-10T11:37:51.119Z\"}]",
+    "isExpiredKybModalHidden_undefined": "false"
+  },
+  "sessionStorage": {
+    "sessionId": "\"yBaqC3QJhzszLC7Ltp43f\"",
+    "initialLandingSearch": "\"\"",
+    "startWatchVideo": "\"Fri, 10 Jul 2026 11:37:22 GMT\"",
+    "tabActivateTimestamp": "\"1783683565948\"",
+    "__mmp_metrics_page_url__": "https://es.stripchat.com/MiaSkylar/videos",
+    "__mmp_metrics_user_id__": "18067",
+    "isGuestIdentitySent": "true",
+    "initLandingParams": "{}",
+    "dwhLandedEventIsSent": "true",
+    "__mmp_metrics_session_start_time__": "1783683550958"
+  },
+  "cookies": [
+    "ABTest_ab_a_109853_key=A_276",
+    "ABTest_ab_a_113150_key=X_276",
+    "ABTest_ab_a_114161_key=B_276",
+    "ABTest_ab_a_114207_v2_key=B_276",
+    "ABTest_ab_a_117358_key=B_276",
+    "ABTest_ab_openapi_contract_validation_v2_key=N_276",
+    "ABTest_ab_s_d_recommended_v40_tech_v10_key=N_276",
+    "ABTest_ab_streaming_116767_v2_key=B_276",
+    "ABTest_ab_swap_rec_match_key=B_276",
+    "ABTest_ab_test_parallel_testing_1_v8_key=B_276",
+    "ABTest_ab_streaming_webrtc_resolution_limit_v3_key=B_276",
+    "ABTest_ab_websocket_contract_validation_key=A_276",
+    "isRecommendationDisabled=false",
+    "mab_featured_group=6",
+    "isVisitorsAgreementAccepted=1",
+    "localeDomain=es",
+    "alreadyVisited=1",
+    "isVisitorsAgreementAccepted=1",
+    "guestFavoriteIds=",
+    "guestSubscriptionIds=",
+    "guestWatchHistoryStartDate=2026-07-10T11%3A24%3A20.039Z",
+    "c=%7B%22essential%22%3A%5B%22all%22%5D%2C%22thirdParties%22%3A%5B%22all%22%5D%7D",
+    "_ga=GA1.1.150561548.1783682706",
+    "sCashGuestId=c39cd2620c7c6aa00e27f1dde7f5e6a0c36e6d04f27c4165525e8e1adfbb48b3",
+    "_ga_Q87RE2YE8G=GS2.1.s1783682706$o1$g1$t1783683566$j58$l0$h0",
+    "baseAmpl=%7B%22platform%22%3A%22Web%22%2C%22device_id%22%3A%2212e1161f-9c6b-421d-bf99-0e25ea597c86%22%2C%22session_id%22%3A1783682705904%2C%22up%22%3A%7B%7D%7D",
+    "AMP_19a23394ad=JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjIxMmUxMTYxZi05YzZiLTQyMWQtYmY5OS0wZTI1ZWE1OTdjODYlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzgzNjgyNzA1OTA0JTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc4MzY4MzU2NjQ0NyUyQyUyMmxhc3RFdmVudElkJTIyJTNBNjclMkMlMjJwYWdlQ291bnRlciUyMiUzQTAlN0Q="
+  ],
+  "windowKeys": [
+    "onappinstalled",
+    "oncontentvisibilityautostatechange",
+    "oncontextrestored",
+    "onpopstate",
+    "model"
+  ],
+  "reactState": [
+    {
+      "hasError": false,
+      "uniqToken": ""
+    },
+    {
+      "hasError": false,
+      "uniqToken": ""
+    },
+    {
+      "memoizedState": [
+        null,
+        []
+      ],
+      "baseState": null,
+      "baseQueue": null,
+      "queue": null,
+      "next": null
+    },
+    {
+      "isWebXrAvailable": false
+    },
+    {
+      "isWebXrAvailable": false
+    },
+    {
+      "isWebXrAvailable": false
+    },
+    {
+      "isWebXrAvailable": false
+    },
+    {
+      "isWebXrAvailable": false
+    },
+    {
+      "isWebXrAvailable": false
+    },
+    {
+      "isWebXrAvailable": false
+    },
+    {
+      "isWebXrAvailable": false
+    }
+  ],
+  "streamElements": [
+    {
+      "tag": "DIV",
+      "class": "ViewCamWrapper__videoLayout#D_ video",
+      "id": "",
+      "text": "25.3kPrivadoShow Privado 32tkPropinaPropinaObjetivo: 120 tk KEEP SUCKING WITH A LOT OF SALIVA0%❗❗​Ex",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "ViewCamWrapper__video#hm",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "user-videos-page",
+      "id": "",
+      "text": "Vídeos de MiaSkylar14 vídeosClub de Fanso350tk06:58DO YOU WANT TO SEE ME RIDE A DELICIOUS AND HARD C",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-v2",
+      "id": "",
+      "text": "Club de Fanso350tk06:58DO YOU WANT TO SEE ME RIDE A DELICIOUS AND HARD COCK? COME!!000:17LET'S HAVE ",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "user-videos-page__video-list videos-list-v2__content",
+      "id": "",
+      "text": "Club de Fanso350tk06:58DO YOU WANT TO SEE ME RIDE A DELICIOUS AND HARD COCK? COME!!000:17LET'S HAVE ",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-v2",
+      "id": "",
+      "text": "Club de Fanso350tk06:58DO YOU WANT TO SEE ME RIDE A DELICIOUS AND HARD COCK? COME!!0",
+      "attributes": {
+        "data-video-id": "58888783"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-expander",
+      "id": "",
+      "text": "Club de Fanso350tk06:58DO YOU WANT TO SEE ME RIDE A DELICIOUS AND HARD COCK? COME!!0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-inner",
+      "id": "",
+      "text": "Club de Fanso350tk06:58DO YOU WANT TO SEE ME RIDE A DELICIOUS AND HARD COCK? COME!!0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-thumb",
+      "id": "",
+      "text": "Club de Fanso350tk06:58",
+      "attributes": {
+        "data-user-id": "212985113",
+        "data-video-id": "58888783",
+        "data-testid": "video-item"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "fanClub media-access-overlay media-access-overlay--cover media-access-overlay--video paidOrFanClub viewer",
+      "id": "",
+      "text": "Club de Fanso350tk",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-duration",
+      "id": "",
+      "text": "06:58",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-under-thumb",
+      "id": "",
+      "text": "DO YOU WANT TO SEE ME RIDE A DELICIOUS AND HARD COCK? COME!!0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-title",
+      "id": "",
+      "text": "DO YOU WANT TO SEE ME RIDE A DELICIOUS AND HARD COCK? COME!!",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-title-text",
+      "id": "",
+      "text": "DO YOU WANT TO SEE ME RIDE A DELICIOUS AND HARD COCK? COME!!",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-controls",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-v2",
+      "id": "",
+      "text": "00:17LET'S HAVE A LITTLE FUN!!26",
+      "attributes": {
+        "data-video-id": "56731098"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-expander",
+      "id": "",
+      "text": "00:17LET'S HAVE A LITTLE FUN!!26",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-inner",
+      "id": "",
+      "text": "00:17LET'S HAVE A LITTLE FUN!!26",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-thumb",
+      "id": "",
+      "text": "00:17",
+      "attributes": {
+        "data-user-id": "212985113",
+        "data-video-id": "56731098",
+        "data-testid": "video-item"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-duration",
+      "id": "",
+      "text": "00:17",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-under-thumb",
+      "id": "",
+      "text": "LET'S HAVE A LITTLE FUN!!26",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-title",
+      "id": "",
+      "text": "LET'S HAVE A LITTLE FUN!!",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-title-text",
+      "id": "",
+      "text": "LET'S HAVE A LITTLE FUN!!",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-controls",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-v2",
+      "id": "",
+      "text": "00:15JOIN ME!😈👅26",
+      "attributes": {
+        "data-video-id": "55245711"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-expander",
+      "id": "",
+      "text": "00:15JOIN ME!😈👅26",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-inner",
+      "id": "",
+      "text": "00:15JOIN ME!😈👅26",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-thumb",
+      "id": "",
+      "text": "00:15",
+      "attributes": {
+        "data-user-id": "212985113",
+        "data-video-id": "55245711",
+        "data-testid": "video-item"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-duration",
+      "id": "",
+      "text": "00:15",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-under-thumb",
+      "id": "",
+      "text": "JOIN ME!😈👅26",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-title",
+      "id": "",
+      "text": "JOIN ME!😈👅",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-title-text",
+      "id": "",
+      "text": "JOIN ME!😈👅",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-controls",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-v2",
+      "id": "",
+      "text": "Club de Fanso333tk03:01Video con maquina0",
+      "attributes": {
+        "data-video-id": "44890622"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-expander",
+      "id": "",
+      "text": "Club de Fanso333tk03:01Video con maquina0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-inner",
+      "id": "",
+      "text": "Club de Fanso333tk03:01Video con maquina0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-thumb",
+      "id": "",
+      "text": "Club de Fanso333tk03:01",
+      "attributes": {
+        "data-user-id": "212985113",
+        "data-video-id": "44890622",
+        "data-testid": "video-item"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "fanClub media-access-overlay media-access-overlay--cover media-access-overlay--video paidOrFanClub viewer",
+      "id": "",
+      "text": "Club de Fanso333tk",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-duration",
+      "id": "",
+      "text": "03:01",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-under-thumb",
+      "id": "",
+      "text": "Video con maquina0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-title",
+      "id": "",
+      "text": "Video con maquina",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-title-text",
+      "id": "",
+      "text": "Video con maquina",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-controls",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-v2",
+      "id": "",
+      "text": "00:08❤️32",
+      "attributes": {
+        "data-video-id": "44888971"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-expander",
+      "id": "",
+      "text": "00:08❤️32",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-inner",
+      "id": "",
+      "text": "00:08❤️32",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-thumb",
+      "id": "",
+      "text": "00:08",
+      "attributes": {
+        "data-user-id": "212985113",
+        "data-video-id": "44888971",
+        "data-testid": "video-item"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-duration",
+      "id": "",
+      "text": "00:08",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-under-thumb",
+      "id": "",
+      "text": "❤️32",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-title",
+      "id": "",
+      "text": "❤️",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-title-text",
+      "id": "",
+      "text": "❤️",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-controls",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-v2",
+      "id": "",
+      "text": "00:04🍑50",
+      "attributes": {
+        "data-video-id": "44888892"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-expander",
+      "id": "",
+      "text": "00:04🍑50",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-inner",
+      "id": "",
+      "text": "00:04🍑50",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-thumb",
+      "id": "",
+      "text": "00:04",
+      "attributes": {
+        "data-user-id": "212985113",
+        "data-video-id": "44888892",
+        "data-testid": "video-item"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-duration",
+      "id": "",
+      "text": "00:04",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-under-thumb",
+      "id": "",
+      "text": "🍑50",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-title",
+      "id": "",
+      "text": "🍑",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-title-text",
+      "id": "",
+      "text": "🍑",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-controls",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-v2",
+      "id": "",
+      "text": "55 tk00:12🔥0",
+      "attributes": {
+        "data-video-id": "44888838"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-expander",
+      "id": "",
+      "text": "55 tk00:12🔥0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-inner",
+      "id": "",
+      "text": "55 tk00:12🔥0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-thumb",
+      "id": "",
+      "text": "55 tk00:12",
+      "attributes": {
+        "data-user-id": "212985113",
+        "data-video-id": "44888838",
+        "data-testid": "video-item"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "media-access-overlay media-access-overlay--cover media-access-overlay--video paid viewer",
+      "id": "",
+      "text": "55 tk",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-duration",
+      "id": "",
+      "text": "00:12",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-under-thumb",
+      "id": "",
+      "text": "🔥0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-title",
+      "id": "",
+      "text": "🔥",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-title-text",
+      "id": "",
+      "text": "🔥",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-controls",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-v2",
+      "id": "",
+      "text": "00:10❤️‍🔥38",
+      "attributes": {
+        "data-video-id": "44888763"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-expander",
+      "id": "",
+      "text": "00:10❤️‍🔥38",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-inner",
+      "id": "",
+      "text": "00:10❤️‍🔥38",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-thumb",
+      "id": "",
+      "text": "00:10",
+      "attributes": {
+        "data-user-id": "212985113",
+        "data-video-id": "44888763",
+        "data-testid": "video-item"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-duration",
+      "id": "",
+      "text": "00:10",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-under-thumb",
+      "id": "",
+      "text": "❤️‍🔥38",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-title",
+      "id": "",
+      "text": "❤️‍🔥",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-title-text",
+      "id": "",
+      "text": "❤️‍🔥",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-controls",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-v2",
+      "id": "",
+      "text": "00:56🔥41",
+      "attributes": {
+        "data-video-id": "44888748"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-expander",
+      "id": "",
+      "text": "00:56🔥41",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-inner",
+      "id": "",
+      "text": "00:56🔥41",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-thumb",
+      "id": "",
+      "text": "00:56",
+      "attributes": {
+        "data-user-id": "212985113",
+        "data-video-id": "44888748",
+        "data-testid": "video-item"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-duration",
+      "id": "",
+      "text": "00:56",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-under-thumb",
+      "id": "",
+      "text": "🔥41",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-title",
+      "id": "",
+      "text": "🔥",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-title-text",
+      "id": "",
+      "text": "🔥",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-controls",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-v2",
+      "id": "",
+      "text": "111 tk01:15Squirt0",
+      "attributes": {
+        "data-video-id": "44888608"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-expander",
+      "id": "",
+      "text": "111 tk01:15Squirt0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-inner",
+      "id": "",
+      "text": "111 tk01:15Squirt0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-thumb",
+      "id": "",
+      "text": "111 tk01:15",
+      "attributes": {
+        "data-user-id": "212985113",
+        "data-video-id": "44888608",
+        "data-testid": "video-item"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "media-access-overlay media-access-overlay--cover media-access-overlay--video paid viewer",
+      "id": "",
+      "text": "111 tk",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-duration",
+      "id": "",
+      "text": "01:15",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-under-thumb",
+      "id": "",
+      "text": "Squirt0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-title",
+      "id": "",
+      "text": "Squirt",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-title-text",
+      "id": "",
+      "text": "Squirt",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-controls",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-v2",
+      "id": "",
+      "text": "00:09🫠35",
+      "attributes": {
+        "data-video-id": "44888576"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-expander",
+      "id": "",
+      "text": "00:09🫠35",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-inner",
+      "id": "",
+      "text": "00:09🫠35",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-thumb",
+      "id": "",
+      "text": "00:09",
+      "attributes": {
+        "data-user-id": "212985113",
+        "data-video-id": "44888576",
+        "data-testid": "video-item"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-duration",
+      "id": "",
+      "text": "00:09",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-under-thumb",
+      "id": "",
+      "text": "🫠35",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-title",
+      "id": "",
+      "text": "🫠",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-title-text",
+      "id": "",
+      "text": "🫠",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-controls",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-v2",
+      "id": "",
+      "text": "50 tk00:15❤️‍🔥0",
+      "attributes": {
+        "data-video-id": "44888530"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-expander",
+      "id": "",
+      "text": "50 tk00:15❤️‍🔥0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-inner",
+      "id": "",
+      "text": "50 tk00:15❤️‍🔥0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-thumb",
+      "id": "",
+      "text": "50 tk00:15",
+      "attributes": {
+        "data-user-id": "212985113",
+        "data-video-id": "44888530",
+        "data-testid": "video-item"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "media-access-overlay media-access-overlay--cover media-access-overlay--video paid viewer",
+      "id": "",
+      "text": "50 tk",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-duration",
+      "id": "",
+      "text": "00:15",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-under-thumb",
+      "id": "",
+      "text": "❤️‍🔥0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-title",
+      "id": "",
+      "text": "❤️‍🔥",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-title-text",
+      "id": "",
+      "text": "❤️‍🔥",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-controls",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-v2",
+      "id": "",
+      "text": "Club de Fanso300tk05:34🔥🔥🔥0",
+      "attributes": {
+        "data-video-id": "44886424"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-expander",
+      "id": "",
+      "text": "Club de Fanso300tk05:34🔥🔥🔥0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-inner",
+      "id": "",
+      "text": "Club de Fanso300tk05:34🔥🔥🔥0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-thumb",
+      "id": "",
+      "text": "Club de Fanso300tk05:34",
+      "attributes": {
+        "data-user-id": "212985113",
+        "data-video-id": "44886424",
+        "data-testid": "video-item"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "fanClub media-access-overlay media-access-overlay--cover media-access-overlay--video paidOrFanClub viewer",
+      "id": "",
+      "text": "Club de Fanso300tk",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-duration",
+      "id": "",
+      "text": "05:34",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-under-thumb",
+      "id": "",
+      "text": "🔥🔥🔥0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-title",
+      "id": "",
+      "text": "🔥🔥🔥",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-title-text",
+      "id": "",
+      "text": "🔥🔥🔥",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-controls",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-v2",
+      "id": "",
+      "text": "100 tk01:11I play with my machine 🔥0",
+      "attributes": {
+        "data-video-id": "44885885"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-expander",
+      "id": "",
+      "text": "100 tk01:11I play with my machine 🔥0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "videos-list-item-inner",
+      "id": "",
+      "text": "100 tk01:11I play with my machine 🔥0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-thumb",
+      "id": "",
+      "text": "100 tk01:11",
+      "attributes": {
+        "data-user-id": "212985113",
+        "data-video-id": "44885885",
+        "data-testid": "video-item"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "media-access-overlay media-access-overlay--cover media-access-overlay--video paid viewer",
+      "id": "",
+      "text": "100 tk",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-duration",
+      "id": "",
+      "text": "01:11",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-under-thumb",
+      "id": "",
+      "text": "I play with my machine 🔥0",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-title",
+      "id": "",
+      "text": "I play with my machine 🔥",
+      "attributes": {}
+    },
+    {
+      "tag": "SPAN",
+      "class": "video-title-text",
+      "id": "",
+      "text": "I play with my machine 🔥",
+      "attributes": {}
+    },
+    {
+      "tag": "DIV",
+      "class": "video-controls",
+      "id": "",
+      "text": "",
+      "attributes": {}
+    },
+    {
+      "tag": "A",
+      "class": "header-top__live-counter live-counter live-counter--interactive media-up-to-m-hidden",
+      "id": "",
+      "text": "8746 EN VIVO",
+      "attributes": {
+        "href": "/"
+      }
+    }
+  ],
+  "chatElements": [],
+  "paymentElements": [],
+  "modelInfo": {},
+  "htmlSample": "<html lang=\"es\" class=\"cookie-accepted\" data-helmet=\"1\" style=\"--vh: 7.58px; --vh-min: 7.58px;\"><head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#\" data-helmet=\"1\"><meta charset=\"utf-8\"><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'self' *.stripchat.com data: blob: *.amplitude.com *.google-analytics.com *.googletagmanager.com *.googleapis.com *.gstatic.com *.lovense.club:* *.lovense.com *.fanberry.com *.lovense-api.com *.stripcdn.com *.stripst.com *.stripst.dev *.strpst.com *.striiiipst.com *.pitchrat.com *.chapturist.com *.strpssts.net *.thicrapst.com *.stratchit.com *.strwst.com *.doppiocdn.com *.doppiocdn1.com *.doppiocdn.net *.doppiocdn.org *.doppiocdn.media *.doppiocdn.live *.doppiostreams.com *.doppiocdn.dev *.sc-apps.com *.hotjar.com *.moengage.com *.hotjar.io fpnpmcdn.net loo3laej.com as2econ.com sonnontrus.com stripchat.page mc.thedd.online *.handyfeeling.com stripchat.app *.strpssts-ana.com; img-src 'self' * data: blob: android-webview-video-poster: *.amplitude.com *.sc-apps.com *.moengage.com; script-src 'self' *.stripchat.com data: 'unsafe-inline' 'unsafe-eval' blob: *.amplitude.com *.google-analytics.com *.googletagmanager.com *.googleapis.com *.gstatic.com *.hytto.com *.lovense.club:* *.lovense.com *.fanberry.com *.lovense-api.com *.stripst.com *.stripst.dev *.strpst.com *.striiiipst.com *.pitchrat.com *.chapturist.com *.strpssts.net *.thicrapst.com *.stratchit.com *.strwst.com *.doppiocdn.com *.doppiocdn1.com *.doppiocdn.net *.doppiocdn.org *.doppiocdn.media *.doppiocdn.live *.doppiostreams.com *.doppiocdn.dev *.google.com platform.twitter.com wss://*.sc-apps.com *.sc-apps.com www.googleadservices.com cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.2/fingerprint2.min.js challenges.cloudflare.com/turnstile/v0/api.js *.hotjar.com *.moengage.com *.crowdin.com cdntechone.com fpnpmcdn.net loo3laej.com as2econ.com sonnontrus.com stripchat.page mc.thedd.online *.nktrdr.com *.xhamster.com *.llyjmp.com *.rmzsglng.com *.lxzrdr.com *.mnaspm.com *.rmhfrtnd.com *.xxxivjmp.com *.xxxvjmp.com *.xxxviiijmp.com *.xlviiirdr.com *.zybrdr.com *.bbrdbr.com *.dmsktmld.com *.fxmnba.com *.althz.com *.bdobre.com *.blcdog.com *.imkirh.com *.rmishe.com *.bmbsgo.com *.eizzih.com *.godkc.com *.hciri.com *.eshimor.com *.reebr.com *.suovop.com *.neorts.com *.xofde.com *.ohscprts.com *.thscprts.com *.thrscprts.com *.forscprts.com *.fiscprts.com *.siscprts.com *.sescprts.com *.eiscprts.com *.niscprts.com *.tscprts.com *.xlivrdr.com *.strpssts-ana.com hcaptcha.com *.hcaptcha.com; connect-src 'self' *.stripchat.com *.amplitude.com *.doubleclick.net *.flixstorage.com *.google-analytics.com *.googletagmanager.com *.googleapis.com *.hytto.com *.lovense.club:* *.lovense.com *.fanberry.com *.lovense-api.com *.stripcdn.com stripchat.com *.xhamsterlive.com *.xlivesex.com *.stripst.com *.stripst.dev *.strpst.com *.striiiipst.com *.pitchrat.com *.chapturist.com *.strpssts.net *.thicrapst.com *.stratchit.com *.strwst.com *.doppiocdn.com *.doppiocdn1.com *.doppiocdn.net *.doppiocdn.org *.doppiocdn.media *.doppiocdn.live *.doppiostreams.com *.doppiocdn.dev syndication.twitter.com wss://*.stripchat.com wss://*.stripcdn.com wss://*.stripcdn.com:8090 wss://*.stripst.com wss://*.stripst.dev wss://*.strpst.com wss://*.strwst.com wss://*.doppiocdn.com wss://*.doppiocdn.org wss://*.doppiocdn.media wss://*.lovense.com wss://*.fanberry.com wss://*.lovense-api.com wss://*.sc-apps.com *.sc-apps.com *.hotjar.com *.moengage.com *.hotjar.io wss://*.hotjar.com *.crowdin.com crowdin.com datatechone.com coconts.com cocoleemoon.com accounts.google.com fpnpmcdn.net loo3laej.com as2econ.com sonnontrus.com stripchat.page mc.thedd.online *.handyfeeling.com stripchat.app stripchat.ooo strip.chat stripchats.global strip-chat.club stripchat.direct stripchat.vision stripchats.info stripchats.me stripchat.care stripchats.webcam stripchats.site stripchats.website stripchats.io stripchats.pro stripchats.app stripchats.chat stripchats.direct stripchats.social stripchat.express strip-chat.io strip-chat.pro strip-chat.live strip-chat.app strip-chat.best strip-chat.webcam strip-chat.me strip-chat.chat strip-chat.direct strip-chat.website *.nktrdr.com *.xhamster.com *.llyjmp.com *.rmzsglng.com *.lxzrdr.com *.mnaspm.com *.rmhfrtnd.com *.xxxivjmp.com *.xxxvjmp.com *.xxxviiijmp.com *.xlviiirdr.com *.zybrdr.com *.bbrdbr.com *.dmsktmld.com *.fxmnba.com *.althz.com *.bdobre.com *.blcdog.com *.imkirh.com *.rmishe.com *.bmbsgo.com *.eizzih.com *.godkc.com *.hciri.com *.eshimor.com *.reebr.com *.suovop.com *.neorts.com *.xofde.com *.ohscprts.com *.thscprts.com *.thrscprts.com *.forscprts.com *.fiscprts.com *.siscprts.com *.sescprts.com *.eiscprts.com *.niscprts.com *.tscprts.com *.xlivrdr.com *.strpssts-ana.com hcaptcha.com *.hcaptcha.com; media-src 'self' *.stripchat.com data: blob: *.ahcdn.com *.amplitude.com *.lovense.club:* *.lovense.com *.fanberry.com *.lovense-api.com *.stripcdn.com *.stripst.com *.stripst.dev ",
+  "summary": {
+    "totalAPICalls": 0,
+    "totalWebSocketMessages": 0,
+    "totalWebSocketURLs": 0,
+    "totalScripts": 51,
+    "totalIframes": 0,
+    "totalVideoElements": 152,
+    "totalStreamElements": 139,
+    "totalChatElements": 0,
+    "totalLocalStorageKeys": 16,
+    "totalCookies": 27,
+    "reactStateFound": true
+  }
+}
